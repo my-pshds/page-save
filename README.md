@@ -1,6 +1,6 @@
 # mpwx-save
 
-该库用来存放[微信公众平台](https://mp.weixin.qq.com/)上**他人**的&thinsp;html&thinsp;或&thinsp;mhtml&thinsp;文件
+该库用来存放**各**种**平台**上**他人**的&thinsp;html&thinsp;或&thinsp;mhtml&thinsp;文件
 
 **不保证时效性。** 有可能非常久远。
 
